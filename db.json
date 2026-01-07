@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "Chandu",
+      "image": "https://i.pinimg.com/736x/de/8e/ea/de8eea6f67a5fc92996ff6d48b3bd690.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Athika",
+      "image": "https://i.pinimg.com/originals/eb/07/fb/eb07fbadd098d0c1b4455daae8025210.jpg",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "sreeja",
+      "image": "https://cdn.britannica.com/65/162465-050-9CDA9BC9/Alps-Switzerland.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Akash",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.lOM6w6ZCErFJwSp0lyQPNQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "5",
+      "name": "Vyshnavi",
+      "image": "https://m.media-amazon.com/images/I/71aGSj95xUL.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Ramya",
+      "image": "https://i.pinimg.com/originals/a5/78/72/a57872d636e641177805154c8466e7d0.jpg"
+    }
+  ]
+}
